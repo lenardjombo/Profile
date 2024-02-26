@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leonard Jombo
-- 👀 I’m interested in software development including web development and cyber security.
+- 👀 I’m interested in software development and cyber security.
 - 🌱 I’m currently learning computer science bachelors degree at maseno university.
 - 💞️ I’m looking to collaborate with innovative teams to focus on buliding dynamic projects that can a long way to solve problems faced in the technology industry.
 - 📫 Reach me through my email(leonardjombo6@gmail.com or leonarduncan6@gmail.com) , mobile number(+254700785496) or linkedin account(www.linkedin.com/in/leonard-jombo-7063a3254)
