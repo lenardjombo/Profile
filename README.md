@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **lenardjombo@gmail.com**
 
-- ⚡ Fun fact **You got to try this (import antigravity) in python.**
+- ⚡ Fun fact **You've got to try this (import antigravity) in python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
