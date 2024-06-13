@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [medium/lenardjombo.com](medium/lenardjombo.com)
 
-- 💬 Ask me about **anything related to Python**
-
 - 📫 How to reach me **lenardjombo@gmail.com**
 
 - ⚡ Fun fact **You've got to try this (import antigravity) in python.**
