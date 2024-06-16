@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonard Jombo</h1>
-<h3 align="center">A passionate computer scientist wiith greater interest in software development and Machine Learning and AI.</h3>
+<h3 align="center">A  computer scientist Passionate about software development with a strong interest in machine learning and artificial intelligence.</h3>
 
 - 🔭 I’m currently working on **AI Shopping System**
 
