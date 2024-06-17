@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [jombo.com](jombo.com)
 
-- 📝 I regularly write articles on [medium/lenardjombo.com](medium/lenardjombo.com)
+- 📝 I regularly write articles on [https://medium.com/@leonardjombo6)
 
 - 📫 How to reach me **lenardjombo@gmail.com**
 
