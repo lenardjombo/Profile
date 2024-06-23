@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI Shopping System**
 
-- 🌱 I’m currently learning **Django,FastApi**.
+- 🌱 I’m currently learning **Django,FastApi**
 
 - 👯 I’m looking to collaborate on [google-research/language](https://github.com/google-research/language)
 
