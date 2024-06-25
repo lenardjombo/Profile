@@ -12,6 +12,7 @@
 - 📝 I regularly write articles on [https://medium.com/@leonardjombo6)
 
 - 📫 How to reach me **lenardjombo@gmail.com**
+- 
 -*** Hack away the unessential
 
 <h3 align="left">Connect with me:</h3>
