@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lenardjombo@gmail.com**
 
-- 💬Funny fact **Java programmers wear glasses because they can't c#**
+- 💬Funny fact     **Java programmers wear glasses because they can't c#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
