@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leonard Jombo</h1>
 <h3 align="center">A passionate computer scientist wiith greater interest in software development and Machine Learning and AI.</h3>
 
-- 🔭 I’m currently working on **AI Shopping System**
+- 🔭 I’m currently working on **AI Shopping System**.
 
-- 🌱 I’m currently learning **Django,FastApi**
+- 🌱 I’m currently learning **Django,FastApi**.
 
 - 👯 I’m looking to collaborate on [google-research/language](https://github.com/google-research/language)
 
