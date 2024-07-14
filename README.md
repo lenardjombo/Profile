@@ -1,4 +1,4 @@
- <img src="https://img.freepik.com/premium-photo/clouds-blue-sky-background_733139-3958.jpg?w=1380" width="100%" height = "200px"/>
+ <img src="https://img.freepik.com/premium-vector/binary-computer-code-background_144316-9.jpg?ga=GA1.1.150593724.1717581233&semt=sph" width="100%" height = "200px"/>
 <h2 align="center">Hi 👋, I'm Lenard jombo</h2>
 <h3 align="center">Software Developer </h3>
 <div> <a href="https://www.linkedin.com/in/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
