@@ -2,14 +2,23 @@
 <h1 align="center">Hi 👋, I'm Lenard Jombo</h1>
 <h3 align="center">Software Developer</h3>
 - 🔭 I’m currently working on **AI shopping Model**
+
 - 👯 I’m looking to collaborate on **google-research/language**
+- 
 - 🤝 I’m looking for help with **SmartFarming with AI project**
+- 
 - 🌱 I’m currently learning **TensorFlow**
+- 
 - 💬 Ask me about **anything**
+- 
 - 📫 How to reach me **leonardjombo6@gmail.com**
+- 
 - 👨‍💻 All of my projects are available at **https://jombo.netlify.app**
+- 
 - 📝 I regularly write articles on **https://medium/lenardjombo**
+- 
 - 📄 Know about my experiences **myresume**
+- 
 - ⚡ Fun fact **Java programmers wear glasses because they can't c#**
 
 <div> <a href="https://twitter.com/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
