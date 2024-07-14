@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+ <img src="https://img.freepik.com/premium-photo/clouds-blue-sky-background_733139-3958.jpg?w=1380" width="100%" />
 <h2 align="center">Hi 👋, I'm Lenard jombo</h2>
 <h3 align="center">Software Developer </h3>
 <div> <a href="https://www.linkedin.com/in/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
