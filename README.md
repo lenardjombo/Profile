@@ -10,7 +10,7 @@ My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netli
 <a href="https://linkedin.com/in/lenardjombo" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lenardjombo" height="30" width="40" /></a><a href="https://instagram.com/lenardjombo" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lenardjombo" height="30" width="40" /></a></p>
 
 <h3 align="left">Stars</h3>
-![lenardjombo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenardjombo&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenardjombo&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="lenardjombo" /></p>
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lenardjombo&show_icons=true&locale=en&theme=dark" alt="lenardjombo" /></p>
 
