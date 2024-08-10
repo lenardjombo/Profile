@@ -13,10 +13,14 @@ My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netli
   <a href="https://instagram.com/lenardjombo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lenardjombo" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com" target="blank">
+  <a href="https://leetcode.com/lenardjombo" target="blank">
     <img align="center" src="https://img.shields.io/badge/LeetCode-FF9900?style=flat&logo=leetcode&logoColor=white" alt="lenardjombo" height="30" width="90" />
   </a>
+  <a href="https://medium.com/@lenardjombo" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="lenardjombo" height="30" width="80" />
+  </a>
 </p>
+
 
 
 
