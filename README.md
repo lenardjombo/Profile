@@ -7,7 +7,17 @@
 </div><h3 align="left">Connect with me:</h3>
 My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netlify.app">  See Projects</a>
 <p align="left">
-<a href="https://linkedin.com/in/lenardjombo" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lenardjombo" height="30" width="40" /></a><a href="https://instagram.com/lenardjombo" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lenardjombo" height="30" width="40" /></a></p>
+  <a href="https://linkedin.com/in/lenardjombo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="lenardjombo" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/lenardjombo" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lenardjombo" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/lenardjombo" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/LeetCode_logo_with_text.svg/1280px-LeetCode_logo_with_text.svg.png" alt="lenardjombo" height="30" width="80" />
+  </a>
+</p>
+
 
 <h3 align="left">Stars</h3>
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenardjombo&theme=dark&show_icons=true&layout=compact" alt="lenardjombo" /></p>
