@@ -6,7 +6,7 @@
 <a href="https://instagram.com/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netlify.app">  See Projects</a>
-
+<br><br><br>
 
 <p align="left">
   <a href="https://linkedin.com/in/lenardjombo" target="blank">
