@@ -14,9 +14,10 @@ My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netli
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="lenardjombo" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/lenardjombo" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/LeetCode_logo_with_text.svg/1280px-LeetCode_logo_with_text.svg.png" alt="lenardjombo" height="30" width="80" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FF9900?style=flat&logo=leetcode&logoColor=white" alt="lenardjombo" height="30" width="90" />
   </a>
 </p>
+
 
 
 <h3 align="left">Stars</h3>
