@@ -4,12 +4,13 @@
 <div> <a href="https://www.linkedin.com/in/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://leetcode.com/lenardjombo" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FF9900?style=flat&logo=leetcode&logoColor=white" alt="lenardjombo" height="30" width="90" />
+<a href="https://medium.com/@lenardjombo" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="https://medium.com/@lenardjombo" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="lenardjombo" height="30" width="80" />
+<a href="https://leetcode.com/lenardjombo" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
+
 </div><h3 align="left">Connect with me:</h3>
 My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netlify.app">  See Projects</a>
 <br>
