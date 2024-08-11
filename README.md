@@ -7,7 +7,7 @@
 <a href="https://medium.com/@lenardjombo" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
-<a href="https://leetcode.com/lenardjombo" target="_blank">
+<a href="https://leetcode.com/u/jombo03/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
 
