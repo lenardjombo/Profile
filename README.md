@@ -10,6 +10,9 @@
 <a href="https://leetcode.com/u/jombo03/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
+<a href="https://www.hackerrank.com/challenges/java-if-else/submissions" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank- FfFdF8?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
 
 </div><h3 align="left">Connect with me:</h3>
 My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netlify.app">  See Projects</a>
