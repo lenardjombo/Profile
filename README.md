@@ -19,7 +19,11 @@
 
 
 </div><h3 align="left">Connect with me:</h3>
-My Website <i class='fas fa-external-link-alt'></i> <a href="https://jombo.netlify.app">  See Projects</a>
+My Website 
+<a href="https://jombo.netlify.app"> 
+ See Projects
+ <img src="https://img.shields.io/badge/Visit-MyWebsite-navyblue" />
+</a>
 <br>
 
 
