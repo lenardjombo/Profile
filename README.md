@@ -19,7 +19,7 @@
 
 
 </div><h3 align="left">Connect with me:</h3>
-<h4> See Projects</h4>  <br>
+<h4> See Projects</h4>  <hr>
 <a href="https://jombo.netlify.app"> 
  <img src="https://img.shields.io/badge/Visit-MyWebsite-navyblue" />
 </a>
