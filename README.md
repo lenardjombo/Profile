@@ -1,6 +1,6 @@
  <img src="https://img.freepik.com/premium-vector/binary-computer-code-background_144316-9.jpg?ga=GA1.1.150593724.1717581233&semt=sph" width="100%" height = "200px"/>
 <h2 align="center">Hi 👋, I'm Lenard jombo</h2>
-<a href="#"> 
+<a href="https://jombo.netlify.app"> 
  <img src="https://img.shields.io/badge/ProfileViews-1,588-navyblue" />
 </a>
 <h3 align="center">Software Developer </h3>
