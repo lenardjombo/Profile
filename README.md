@@ -21,8 +21,7 @@
 </div><h3 align="left">Connect with me:</h3>
 My Website 
 <a href="https://jombo.netlify.app"> 
- See Projects
- <img src="https://img.shields.io/badge/Visit-MyWebsite-navyblue" />
+ <img src="https://img.shields.io/badge/SeeProjects-MyWebsite-navyblue" />
 </a>
 <br>
 
