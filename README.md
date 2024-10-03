@@ -1,7 +1,7 @@
 
 
  <h2 align="center">Hi 👋, I'm Lenard jombo</h2>
-<h3 align="center">Software Developer </h3>
+<h3 align="center">Software Developer & Machine Learning Enthusiasist</h3>
 
 <a href="https://jombo.netlify.app"> 
  <img src="https://img.shields.io/badge/ProfileViews-1,588-navyblue" />
