@@ -1,60 +1,38 @@
 
+<h1 align="center" style="color:#6A0DAD;">Lenard Jombo</h1>
 
- <h2 align="center">Hi 👋 I'm Lenard jombo</h2>
-<h3 align="center">Software Developer </h3>
+```go
+package main
 
-<a href="https://jombo.netlify.app"> 
- <img src="https://img.shields.io/badge/ProfileViews-1,588-navyblue" />
-</a>
-<hr>
+Me := SoftwareDeveloper{
+    Name:   "Lenard Jombo",
+    Role:   "Software Developer",
+    Skills: []string{
+        "Backend Development", 
+        "Problem Solving", 
+        "Frontend Development", 
+        "Database Administration",
+    }
+}
+```
+---
 
-</div><h3 align="left">Connect with me:</h3>
-<div> <a href="https://www.linkedin.com/in/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!-- <a href="https://github.com/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> -->
-<!-- <a href="https://instagram.com/lenardjombo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!-- <a href="https://medium.com/@lenardjombo" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a> -->
- <a href="https://www.geeksforgeeks.org/user/leonarde6xx/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
+##  **Projects**
+| **Project**   | **Description**                               | **Tech Stack**               | **Repository**  |
+|--------------|---------------------------------|---------------------------|---------------------------|
+| **Algorithmic Patterns** | Designed to enhance problem-solving skills, this repository explores creative patterns | Go, Javascript,Java,Python | [AlgorithmicPatterns](https://github.com/lenardjombo/AlgorithmicPatterns) |
+| **Java Open-Source-Projects** | Open-source-Projects for collaborations from developers globally |   Java   | [Open-Source-Projects](https://github.com/lenardjombo/Java-open-source-projects) |
+| **CastMovies** | CastMovies is an online movie streaming platform(Backend - (Not yet implemented) |Html ,Css3 and Javascript | [CastMovies](https://github.com/lenardjombo/CastMovies)|
+|**Castnotes** |castnotes web app mimicks the word to allow users to type,edit and save their files as pdfs.|Html,css and javascript|[Castnotes](https://github.com/lenardjombo/CastNotes) |
+|**TextWarp**|TextWarp is a static website designed for anyone to test and improve their typing speed| Html,css and Javascript|[TextWarp](https://github.com/lenardjombo/Text-Warp)
+---
 
-<a href="https://leetcode.com/u/jombo03/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<!-- <a href="https://www.hackerrank.com/challenges/java-if-else/submissions" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank- FfFdF8?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode." />
-</a> -->
-<!-- <a href="https://bitbucket.org/gh7jjycf2o0qq28zl9k20talwwk2d8/workspace/overview/" target="_blank">
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-</a>
- -->
-<h4> Click the link below to visit my website</h4>  
-<a href="https://jombo.netlify.app"> 
- <img src="https://img.shields.io/badge/Visit-MyWebsite-navyblue" />
-</a>
-<br>
+##  **Articles**
+ 1. [How to become a java developer](https://medium.com/@leonardjombo6/how-to-become-a-java-software-developer-in-2024-ae656832bf4d?source=user_profile_page---------0-------------d1ea355b96b2---------------)  
+ 2. [Getting started with any programming language](https://medium.com/@leonardjombo6/getting-started-with-any-programming-language-97814bdecba2?source=user_profile_page---------2-------------d1ea355b96b2---------------)  
 
-
-
-
-
-
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenardjombo&theme=dark&show_icons=true&layout=compact" alt="lenardjombo" /></p>
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=lenardjombo&show_icons=true&locale=en&theme=dark" alt="lenardjombo." /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lenardjombo&theme=dark" alt="lenardjombo" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/lenardjombo">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lenardjombo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lenardjombo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lenardjombo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lenardjombo&theme=aura" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lenardjombo&theme=aura" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lenardjombo&theme=react-dark"/>
+---
+##  **Contact**
+ Email: [leonardjombo6@gmail.com](mailto:leonardjombo6@gmail.com)  
+ LinkedIn: [Lenard Jombo](https://www.linkedin.com/in/leonard-jombo-7063a3254/)  
+ Website: [MyWebsite](https://jombo.netlify.app)  
