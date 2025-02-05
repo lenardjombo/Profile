@@ -1,6 +1,8 @@
 
 <h1 align="center" style="color:#6A0DAD;">Lenard Jombo</h1>
 
+![Static Badge](https://img.shields.io/badge/Profile_views-119,431-green)
+
 ```go
 package main
 
