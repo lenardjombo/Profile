@@ -3,6 +3,11 @@
 
 ![Static Badge](https://img.shields.io/badge/Profile_views-119,431-green)
 
+![GitHub License](https://img.shields.io/github/license/lenardjombo/AI-Blogger)
+
+
+
+
 ```go
 package main
 
