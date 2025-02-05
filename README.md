@@ -7,11 +7,12 @@ package main
 Me := SoftwareDeveloper{
     Name:   "Lenard Jombo",
     Role:   "Software Developer",
-    Skills: []string{
-        "Backend Development", 
-        "Problem Solving", 
-        "Frontend Development", 
-        "Database Administration",
+    Skills: map[string]string{
+        "Technical" : ["Backend Development", 
+        "Data Structures and Algorithms", 
+        "Debugging", 
+        "Databases",
+    "Soft Skills" : ["Communication","Organising","Adaptability","Collaboration","Creativity"]
     }
 }
 ```
