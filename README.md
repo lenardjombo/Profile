@@ -9,18 +9,22 @@
 
 
 ```go
-package main
+Name: Lenard Jombo
+Role: Software Developer
+Skills:
+Technical:
+ - Backend Development
+ - Data Structures and Algorithms
+ - Debugging
+ - Databases
+Soft Skills:
+ - Communication
+ - Organising
+ - Adaptability
+ - Collaboration
+ - Creativity
 
-Me := SoftwareDeveloper{
-    Name:   "Lenard Jombo",
-    Role:   "Software Developer",
-    Skills: map[string]string{
-        "Technical" : ["Backend Development","Data Structures and Algorithms","Debugging", "Databases"],
-        "Soft Skills" : ["Communication","Organising","Adaptability","Collaboration","Creativity"]
-    }
-}
 ```
----
 
 ##  **Projects**
 | **Project**   | **Description**                               | **Tech Stack**               | **Repository**  |
